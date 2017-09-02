@@ -5,7 +5,7 @@
   <link href="/kaerhui/atom.xml" rel="self"/>
   
   <link href="https://kaerhui.github.io/kaerhui/"/>
-  <updated>2017-09-02T10:09:31.887Z</updated>
+  <updated>2017-09-02T10:18:18.575Z</updated>
   <id>https://kaerhui.github.io/kaerhui/</id>
   
   <author>
@@ -20,23 +20,24 @@
     <link href="https://kaerhui.github.io/kaerhui/2017/09/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hexo-github-Page%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>https://kaerhui.github.io/kaerhui/2017/09/02/如何使用hexo-github-Page搭建博客/</id>
     <published>2017-09-02T05:38:24.000Z</published>
-    <updated>2017-09-02T10:09:31.887Z</updated>
+    <updated>2017-09-02T10:18:18.575Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="http://7xjzgy.com1.z0.glb.clouddn.com/image/20150701/hexo20150701000.png" alt="hexo"></p>
-<p>##在本地的准备</p>
+    <content type="html"><![CDATA[<p>##在本地的准备</p>
 <p>###需要下载的软件</p>
 <ul>
 <li>1.<a href="http://nodejs.cn/" target="_blank" rel="external">Nodejs</a></li>
 <li>2.<a href="https://git-scm.com/downloads" target="_blank" rel="external">git</a></li>
+<li>3.<a href="https://hexo.io/" target="_blank" rel="external">hexo</a></li>
 </ul>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;img src=&quot;http://7xjzgy.com1.z0.glb.clouddn.com/image/20150701/hexo20150701000.png&quot; alt=&quot;hexo&quot;&gt;&lt;/p&gt;
-&lt;p&gt;##在本地的准备&lt;/p&gt;
+      &lt;p&gt;##在本地的准备&lt;/p&gt;
 &lt;p&gt;###需要下载的软件&lt;/p&gt;
-&lt;ul
+&lt;ul&gt;
+&lt;li&gt;1.&lt;a href=&quot;http://nodejs.cn/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Nodejs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2.&lt;a href=&quot;https
     
     </summary>
     
