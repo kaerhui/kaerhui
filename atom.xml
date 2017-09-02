@@ -4,9 +4,9 @@
   
   <link href="/kaerhui/atom.xml" rel="self"/>
   
-  <link href="https://kaerhui.github.io/"/>
+  <link href="https://kaerhui.github.io/kaerhui/"/>
   <updated>2017-09-01T16:23:11.253Z</updated>
-  <id>https://kaerhui.github.io/</id>
+  <id>https://kaerhui.github.io/kaerhui/</id>
   
   <author>
     <name>freecrow</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://kaerhui.github.io/2017/09/02/hello-world/"/>
-    <id>https://kaerhui.github.io/2017/09/02/hello-world/</id>
+    <link href="https://kaerhui.github.io/kaerhui/2017/09/02/hello-world/"/>
+    <id>https://kaerhui.github.io/kaerhui/2017/09/02/hello-world/</id>
     <published>2017-09-01T16:23:11.253Z</published>
     <updated>2017-09-01T16:23:11.253Z</updated>
     
