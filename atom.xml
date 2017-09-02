@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>freecrow blogs</title>
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/kaerhui/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://kaerhui.github.io/"/>
   <updated>2017-09-01T16:23:11.253Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://kaerhui.github.io/</id>
   
   <author>
     <name>freecrow</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/09/02/hello-world/"/>
-    <id>http://yoursite.com/2017/09/02/hello-world/</id>
+    <link href="https://kaerhui.github.io/2017/09/02/hello-world/"/>
+    <id>https://kaerhui.github.io/2017/09/02/hello-world/</id>
     <published>2017-09-01T16:23:11.253Z</published>
     <updated>2017-09-01T16:23:11.253Z</updated>
     
