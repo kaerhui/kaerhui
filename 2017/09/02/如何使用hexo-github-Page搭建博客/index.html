@@ -98,17 +98,21 @@
 
 
 
-<meta name="description" content="##在本地的准备 ###需要下载的软件  1.Nodejs 2.git 3.hexo">
+<meta name="description" content="从大二开始就想搭一个自己的网站，刚好听学长说腾讯云有学生套餐就买了，苦于没有时间黑对网络，这方面缺乏专业的基础知识，一直拖到了暑假，最近才用nginx把服务器配置好了,突然要备案让我心态崩了，没办法先来用hexo+github Page来搭建个人博客，这里我是在windows下进行的操作，当然linux下要相对简单些，也更加方便   在本地的准备 需要下载的软件  1.Nodejs 直接在中国">
 <meta property="og:type" content="article">
 <meta property="og:title" content="如何使用hexo=github Page搭建博客">
 <meta property="og:url" content="https://kaerhui.github.io/kaerhui/2017/09/02/如何使用hexo-github-Page搭建博客/index.html">
 <meta property="og:site_name" content="freecrow blogs">
-<meta property="og:description" content="##在本地的准备 ###需要下载的软件  1.Nodejs 2.git 3.hexo">
+<meta property="og:description" content="从大二开始就想搭一个自己的网站，刚好听学长说腾讯云有学生套餐就买了，苦于没有时间黑对网络，这方面缺乏专业的基础知识，一直拖到了暑假，最近才用nginx把服务器配置好了,突然要备案让我心态崩了，没办法先来用hexo+github Page来搭建个人博客，这里我是在windows下进行的操作，当然linux下要相对简单些，也更加方便   在本地的准备 需要下载的软件  1.Nodejs 直接在中国">
 <meta property="og:locale" content="zh-Hans">
-<meta property="og:updated_time" content="2017-09-02T10:18:18.575Z">
+<meta property="og:image" content="https://kaerhui.github.io/kaerhui/2017/09/02/如何使用hexo-github-Page搭建博客/1.png">
+<meta property="og:image" content="https://kaerhui.github.io/kaerhui/2017/09/02/如何使用hexo-github-Page搭建博客/2.png">
+<meta property="og:image" content="https://kaerhui.github.io/kaerhui/2017/09/02/如何使用hexo-github-Page搭建博客/3.jpg">
+<meta property="og:updated_time" content="2017-09-02T15:08:33.196Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="如何使用hexo=github Page搭建博客">
-<meta name="twitter:description" content="##在本地的准备 ###需要下载的软件  1.Nodejs 2.git 3.hexo">
+<meta name="twitter:description" content="从大二开始就想搭一个自己的网站，刚好听学长说腾讯云有学生套餐就买了，苦于没有时间黑对网络，这方面缺乏专业的基础知识，一直拖到了暑假，最近才用nginx把服务器配置好了,突然要备案让我心态崩了，没办法先来用hexo+github Page来搭建个人博客，这里我是在windows下进行的操作，当然linux下要相对简单些，也更加方便   在本地的准备 需要下载的软件  1.Nodejs 直接在中国">
+<meta name="twitter:image" content="https://kaerhui.github.io/kaerhui/2017/09/02/如何使用hexo-github-Page搭建博客/1.png">
 
 
 
@@ -333,13 +337,31 @@
       
 
       
-        <p>##在本地的准备</p>
-<p>###需要下载的软件</p>
+        <blockquote>
+<blockquote>
+<p>从大二开始就想搭一个自己的网站，刚好听学长说腾讯云有<a href="https://www.qcloud.com/act/campus" target="_blank" rel="external">学生套餐</a>就买了，苦于没有时间黑对网络，这方面缺乏专业的基础知识，一直拖到了暑假，最近才用<a href="http://www.nginx.cn/nginx-how-to" target="_blank" rel="external">nginx</a>把服务器配置好了,突然要备案让我心态崩了，没办法先来用hexo+github Page来搭建个人博客，这里我是在windows下进行的操作，当然linux下要相对简单些，也更加方便</p>
+</blockquote>
+</blockquote>
+<p>在本地的准备</p>
+<p>需要下载的软件</p>
 <ul>
-<li>1.<a href="http://nodejs.cn/" target="_blank" rel="external">Nodejs</a></li>
-<li>2.<a href="https://git-scm.com/downloads" target="_blank" rel="external">git</a></li>
-<li>3.<a href="https://hexo.io/" target="_blank" rel="external">hexo</a></li>
+<li>1.<a href="http://nodejs.cn/" target="_blank" rel="external">Nodejs</a><blockquote>
+<p>直接在中国的镜像上下载就可以了，选择合适的位置安装就好了，记得装完之后打开cmd，输入node –version得到如下的结果就说明nodejs已经安装完毕了<br> <img src="1.png" alt=""></p>
+</blockquote>
+</li>
+<li>2.<a href="https://git-scm.com/downloads" target="_blank" rel="external">git</a><blockquote>
+<p>从官网直接下载你所需要的版本（如果官网的下载速度太慢也可以从<a href="http://download.csdn.net/download/zzfenglin/9681343" target="_blank" rel="external">CSDN上下载1.12版本的影响使用</a>），和node一样直接安装就好了一路按照默认就好，那几个选项是关于一些安全性的事项，现在还用不到这些，同样安装完，之后进入cmd，输入git –version，得到如下结果就说明这一步也完成了。<br><img src="2.png" alt=""></p>
+</blockquote>
+</li>
+<li>3.<a href="https://hexo.io/" target="_blank" rel="external">hexo</a><blockquote>
+<p>hexo是一个轻量级的快速、简单的博客框架，这里就用用到我们开始安装的nodejs的npm安装的功能，打开cmd输入npm install hexo-cli -g 耐心等待，这里可能会出项警告之类的等等不要管他，等所有安装完毕之后开始输入hexo init [文件位置] ,若忽略则默认在当前文件夹下</p>
+</blockquote>
+</li>
 </ul>
+<blockquote>
+<p>之后输入 hexo g 完成对初始文件的编译，最后输入hexo s就会在逼的本机上部署该博客了，打开浏览器输入<a href="http://localhost:4000/，当得到以下画面就说你你的博客已经部署完成了" target="_blank" rel="external">http://localhost:4000/，当得到以下画面就说你你的博客已经部署完成了</a><br><img src="3.jpg" alt=""></p>
+</blockquote>
+<p>github的准备工作</p>
 
       
     </div>
