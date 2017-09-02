@@ -5,7 +5,7 @@
   <link href="/kaerhui/atom.xml" rel="self"/>
   
   <link href="https://kaerhui.github.io/kaerhui/"/>
-  <updated>2017-09-02T06:29:46.241Z</updated>
+  <updated>2017-09-02T07:10:26.398Z</updated>
   <id>https://kaerhui.github.io/kaerhui/</id>
   
   <author>
@@ -20,12 +20,14 @@
     <link href="https://kaerhui.github.io/kaerhui/2017/09/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8hexo-github-Page%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
     <id>https://kaerhui.github.io/kaerhui/2017/09/02/如何使用hexo-github-Page搭建博客/</id>
     <published>2017-09-02T05:38:24.000Z</published>
-    <updated>2017-09-02T06:29:46.241Z</updated>
+    <updated>2017-09-02T07:10:26.398Z</updated>
     
     <summary type="html">
     
     </summary>
     
+    
+      <category term="hexo git github" scheme="https://kaerhui.github.io/kaerhui/tags/hexo-git-github/"/>
     
   </entry>
   
